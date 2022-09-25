@@ -1,7 +1,3 @@
-/* website for pokemon font 
-https://www.cdnfonts.com/pokemon-solid.font */
-
-
 /* website to get the color */
 /* https://www.designpieces.com/palette/pokemon-logo-color-palette-hex-and-rgb/ */
 
@@ -9,34 +5,34 @@ body{
     background-image: url('https://wallpapermoon.com/wp-content/uploads/2021/07/00160188.jpg');
     padding:0;
     margin: 0;
-    font-family: 'Pokemon Solid', sans-serif;
+    Font-family: sans-serif;
     text-align: center;
     color:rgb(255, 203, 5);
-    text-shadow: -2px 0 rgb(42, 117, 187), 0 2px rgb(42, 117, 187), 2px 0 rgb(42, 117, 187), 0 -2px rgb(42, 117, 187);
+    text-shadow: -1.5px 0 rgb(42, 117, 187), 0 1.5px rgb(42, 117, 187), 1.5px 0 rgb(42, 117, 187), 0 -1.5px rgb(42, 117, 187);
     font-size: 25px;
 }
 
 h2{
     color:rgb(255, 203, 5);
-    text-shadow: -2px 0 rgb(42, 117, 187), 0 2px rgb(42, 117, 187), 2px 0 rgb(42, 117, 187), 0 -2px rgb(42, 117, 187);
+    text-shadow: -1.5px 0 rgb(42, 117, 187), 0 1.5px rgb(42, 117, 187), 1.5px 0 rgb(42, 117, 187), 0 -1.5px rgb(42, 117, 187);
 }
 h5{
     color:rgb(255, 203, 5);
-    text-shadow: -2px 0 rgb(42, 117, 187), 0 2px rgb(42, 117, 187), 2px 0 rgb(42, 117, 187), 0 -2px rgb(42, 117, 187);
+    text-shadow: -1.5px 0 rgb(42, 117, 187), 0 1.5px rgb(42, 117, 187), 1.5px 0 rgb(42, 117, 187), 0 -1.5px rgb(42, 117, 187);
 }
 li{
     
     color:rgb(255, 203, 5);
-    text-shadow: -2px 0 rgb(42, 117, 187), 0 2px rgb(42, 117, 187), 2px 0 rgb(42, 117, 187), 0 -2px rgb(42, 117, 187);
+    text-shadow: -1.5px 0 rgb(42, 117, 187), 0 1.5px rgb(42, 117, 187), 1.5px 0 rgb(42, 117, 187), 0 -1.5px rgb(42, 117, 187);
 }
 .reg{
     color:rgb(199, 160, 8);
-    text-shadow: -2px 0 rgb(60, 90, 166), 0 2px rgb(60, 90, 166), 2px 0 rgb(60, 90, 166), 0 -2px rgb(60, 90, 166);
+    text-shadow: -1.5px 0 rgb(60, 90, 166), 0 1.5px rgb(60, 90, 166), 1.5px 0 rgb(60, 90, 166), 0 -1.5px rgb(60, 90, 166);
 }
 small{
     font-size: medium;
     color:rgb(199, 160, 8);
-    text-shadow: -2px 0 rgb(60, 90, 166), 0 2px rgb(60, 90, 166), 2px 0 rgb(60, 90, 166), 0 -2px rgb(60, 90, 166);
+    text-shadow: -1.5px 0 rgb(60, 90, 166), 0 1.5px rgb(60, 90, 166), 1.5px 0 rgb(60, 90, 166), 0 -1.5px rgb(60, 90, 166);
 }
 
 div a{
