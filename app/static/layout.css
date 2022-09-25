@@ -1,0 +1,51 @@
+/* website for pokemon font 
+https://www.cdnfonts.com/pokemon-solid.font */
+
+
+/* website to get the color */
+/* https://www.designpieces.com/palette/pokemon-logo-color-palette-hex-and-rgb/ */
+
+body{
+    background-image: url('https://wallpapermoon.com/wp-content/uploads/2021/07/00160188.jpg');
+    padding:0;
+    margin: 0;
+    font-family: 'Pokemon Solid', sans-serif;
+    text-align: center;
+    color:rgb(255, 203, 5);
+    text-shadow: -2.5px 0 rgb(42, 117, 187), 0 2.5px rgb(42, 117, 187), 2.5px 0 rgb(42, 117, 187), 0 -2.5px rgb(42, 117, 187);
+    font-size: 25px;
+}
+
+h2{
+    color:rgb(255, 203, 5);
+    text-shadow: -2.5px 0 rgb(42, 117, 187), 0 2.5px rgb(42, 117, 187), 2.5px 0 rgb(42, 117, 187), 0 -2.5px rgb(42, 117, 187);
+}
+h5{
+    color:rgb(255, 203, 5);
+    text-shadow: -2.5px 0 rgb(42, 117, 187), 0 2.5px rgb(42, 117, 187), 2.5px 0 rgb(42, 117, 187), 0 -2.5px rgb(42, 117, 187);
+}
+li{
+    
+    color:rgb(255, 203, 5);
+    text-shadow: -2.5px 0 rgb(42, 117, 187), 0 2.5px rgb(42, 117, 187), 2.5px 0 rgb(42, 117, 187), 0 -2.5px rgb(42, 117, 187);
+}
+.reg{
+    color:rgb(199, 160, 8);
+    text-shadow: -2.5px 0 rgb(60, 90, 166), 0 2.5px rgb(60, 90, 166), 2.5px 0 rgb(60, 90, 166), 0 -2.5px rgb(60, 90, 166);
+}
+small{
+    font-size: medium;
+    color:rgb(199, 160, 8);
+    text-shadow: -2.5px 0 rgb(60, 90, 166), 0 2.5px rgb(60, 90, 166), 2.5px 0 rgb(60, 90, 166), 0 -2.5px rgb(60, 90, 166);
+}
+
+div a{
+    color:rgb(199, 160, 8);
+    text-shadow: -1px 0 rgb(60, 90, 166), 0 1px rgb(60, 90, 166), 1px 0 rgb(60, 90, 166), 0 -1px rgb(60, 90, 166);
+}
+.normal{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: none;
+    color: rgb(60, 90, 166);
+    text-shadow: -1px 0 rgb(199, 160, 8), 0 1px rgb(199, 160, 8), 1px 0 rgb(199, 160, 8), 0 -1px rgb(199, 160, 8);
+}
